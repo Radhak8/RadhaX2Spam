@@ -35,7 +35,7 @@ HNY += f"━───────╯•╰───────━\n"
 HNY += f"➠ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.4`\n"
 HNY += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{pyro_vr}`\n"
 HNY += f"➠ **SᴘᴀᴍX ᴠᴇʀsɪᴏɴ**  : `{__version__}`\n"
-HNY += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/EnoughBio)\n"
+HNY += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/RadhaX2Support)\n"
 HNY += f"━───────╮•╭───────━\n\n"
 HNY += f"➠ **Source Code:** [ʀᴇᴩᴏ](https://github.com/Radhak8/RadhaX2Spam)"
 
