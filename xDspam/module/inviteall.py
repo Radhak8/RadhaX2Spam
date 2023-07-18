@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
 import asyncio
 
@@ -38,7 +38,7 @@ async def scrape_members(xDspam: Client, message: Message):
                 print(str(a))
         return await xDspam.send_message(
             message.chat.id,
-            f"**Users Added!** \nFrom chat: @{cht.username} \nTotal users added: `{added}` \n\n © @EnoughBio",
+            f"**Users Added!** \nFrom chat: @{cht.username} \nTotal users added: `{added}` \n\n © @RadhaX2Support",
         )
     else:
         await message.reply_text(f"*#Wrong usage** \n syntax: {HNDLR}scrape @chatlink")
