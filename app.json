@@ -1,7 +1,7 @@
 {
-      "name": "xDspam",
+      "name": "Radha X Spam",
       "description": "A Pyrogram Based Span Bots With Many Cmds Fast And Stable",
-      "logo": "https://te.legra.ph/file/06fe1bc84bd5b394dc373.jpg",
+      "logo": "https://te.legra.ph/file/84351002f7dd488a17abb.jpg",
       "keywords": [
         "telegram",
         "PYROGRAM",
@@ -9,8 +9,8 @@
         "XdSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/FabinoXD/xDSpam",
-  "website": "https://github.com/FabinoXD",
+  "repository": "https://github.com/Radhak8/RadhaX2Spam",
+  "website": "https://github.com/Radhak8",
   "success_url": "https://t.me/EnoughBio",
   "env": {
              "API_ID": {
