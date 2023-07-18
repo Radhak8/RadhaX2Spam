@@ -42,10 +42,10 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/RadhaX2Support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FabinoXD"><img src="https://img.shields.io/badge/ꜰᴀʙɪɴᴏ xᴅ%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/GhostRadha"><img src="https://img.shields.io/badge/Rᴀᴅʜᴀ Sɪɴɢʜ xᴅ%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -57,8 +57,5 @@
 </h3>
  : ➻
 
-➥ [ꜰᴀʙɪɴᴏ xᴅ] × <a href="https://hnyxd.ml" alt="ꜰᴀʙɪɴᴏ xᴅ"> <img src="https://img.shields.io/badge/ꜰᴀʙɪɴᴏ xᴅ-90302f?logo=telegram" /></a>  
 
-➥ [ᴀɴᴏɴʏᴍᴏᴜꜱ] × <a href="https://t.me/anonymous_was_bot" alt="ᴀɴᴏɴʏᴍᴏᴜꜱ"> <img src="https://img.shields.io/badge/ᴀɴᴏɴʏᴍᴏᴜꜱ-90302f?logo=telegram" /></a>
-
-➥ [ʀɪᴢᴏᴇʟ x] × <a href="https://t.me/TheRiZoeL" alt="TheRiZoeL"> <img src="https://img.shields.io/badge/TheRiZoeL-90302f?logo=telegram" /></a> 
+➥ [Rᴀᴅʜᴀ Sɪɴɢʜ] × <a href="https://t.me/GhostRadha" alt="ᴀɴᴏɴʏᴍᴏᴜꜱ"> <img src="https://img.shields.io/badge/Rᴀᴅʜᴀ Sɪɴɢʜ-90302f?logo=telegram" /></a>
