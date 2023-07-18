@@ -418,7 +418,7 @@ async def uraid(xspam: Client, e: Message):
             return await e.reply_text("**Sorry !! i Can't Spam Here.**")
         ok = await xspam.get_users(HNY)
         id = ok.id
-        if int(id) in EnoughBio:
+        if int(id) in RadhaX2Support:
             text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
