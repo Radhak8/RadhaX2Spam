@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
 import datetime
 import os
@@ -37,7 +37,7 @@ HNY += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{pyro_vr}`\n"
 HNY += f"➠ **SᴘᴀᴍX ᴠᴇʀsɪᴏɴ**  : `{__version__}`\n"
 HNY += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/EnoughBio)\n"
 HNY += f"━───────╮•╭───────━\n\n"
-HNY += f"➠ **Source Code:** [•Repo•](https://github.com/FabinoXD/xDspam)"
+HNY += f"➠ **Source Code:** [ʀᴇᴩᴏ](https://github.com/Radhak8/RadhaX2Spam)"
 
 
 async def get_time(seconds: int) -> str:
