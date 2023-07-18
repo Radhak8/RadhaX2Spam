@@ -1,15 +1,15 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
-GRP = "@DevilsHeavenMF|@EnoughBio"
+GRP = "@RadhaX2Support|@RadhaX2Update"
 
-EnoughBio = [5680193559, 1356469075]
+EnoughBio = [6026508036, 6039423699]
 
-GROUP = [-1001686672798]
+GROUP = [-1001981660077]
 
-Owners = "@FabinoXD"
+Owners = "@GhostRadha"
 
 EYE = [
     "👁👁\n\n  💋  =====> Abey Ja Na Randi",
