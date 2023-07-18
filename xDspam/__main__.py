@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
 from pyrogram import idle
 
@@ -51,105 +51,105 @@ from . import (
 if CLIENT:
     HNY.start()
     if not ":" in CLIENT:
-        HNY.join_chat("EnoughBio")
-        HNY.join_chat("xDspamBots")
+        HNY.join_chat("RadhaX2Support")
+        HNY.join_chat("RadhaX2Update")
 if CLIENT2:
     HNY2.start()
     if not ":" in CLIENT2:
-        HNY2.join_chat("EnoughBio")
-        HNY2.join_chat("xDspamBots")
+        HNY2.join_chat("RadhaX2Support")
+        HNY2.join_chat("RadhaX2Update")
 if CLIENT3:
     HNY3.start()
     if not ":" in CLIENT3:
-        HNY3.join_chat("EnoughBio")
-        HNY3.join_chat("xDspamBots")
+        HNY3.join_chat("RadhaX2Support")
+        HNY3.join_chat("RadhaX2Update")
 if CLIENT4:
     HNY4.start()
     if not ":" in CLIENT4:
-        HNY4.join_chat("EnoughBio")
-        HNY4.join_chat("xDspamBots")
+        HNY4.join_chat("RadhaX2Support")
+        HNY4.join_chat("RadhaX2Update")
 if CLIENT5:
     HNY5.start()
     if not ":" in CLIENT5:
-        HNY5.join_chat("EnoughBio")
-        HNY5.join_chat("xDspamBots")
+        HNY5.join_chat("RadhaX2Support")
+        HNY5.join_chat("RadhaX2Update")
 if CLIENT6:
     HNY6.start()
     if not ":" in CLIENT6:
-        HNY6.join_chat("EnoughBio")
-        HNY6.join_chat("xDspamBots")
+        HNY6.join_chat("RadhaX2Support")
+        HNY6.join_chat("RadhaX2Update")
 if CLIENT7:
     HNY7.start()
     if not ":" in CLIENT7:
-        HNY7.join_chat("EnoughBio")
-        HNY7.join_chat("xDspamBots")
+        HNY7.join_chat("RadhaX2Support")
+        HNY7.join_chat("RadhaX2Update")
 if CLIENT8:
     HNY8.start()
     if not ":" in CLIENT8:
-        HNY8.join_chat("EnoughBio")
-        HNY8.join_chat("xDspamBots")
+        HNY8.join_chat("RadhaX2Support")
+        HNY8.join_chat("RadhaX2Update")
 if CLIENT9:
     HNY9.start()
     if not ":" in CLIENT9:
-        HNY9.join_chat("EnoughBio")
-        HNY9.join_chat("xDspamBots")
+        HNY9.join_chat("RadhaX2Support")
+        HNY9.join_chat("RadhaX2Update")
 if CLIENT10:
     HNY10.start()
     if not ":" in CLIENT10:
-        HNY10.join_chat("EnoughBio")
-        HNY10.join_chat("xDspamBots")
+        HNY10.join_chat("RadhaX2Support")
+        HNY10.join_chat("RadhaX2Update")
 if CLIENT11:
     HNY11.start()
     if not ":" in CLIENT11:
-        HNY11.join_chat("EnoughBio")
-        HNY11.join_chat("xDspamBots")
+        HNY11.join_chat("RadhaX2Support")
+        HNY11.join_chat("RadhaX2Update")
 if CLIENT12:
     HNY12.start()
     if not ":" in CLIENT12:
-        HNY12.join_chat("EnoughBio")
-        HNY12.join_chat("xDspamBots")
+        HNY12.join_chat("RadhaX2Support")
+        HNY12.join_chat("RadhaX2Update")
 if CLIENT13:
     HNY13.start()
     if not ":" in CLIENT13:
-        HNY13.join_chat("EnoughBio")
-        HNY13.join_chat("xDspamBots")
+        HNY13.join_chat("RadhaX2Support")
+        HNY13.join_chat("RadhaX2Update")
 if CLIENT14:
     HNY14.start()
     if not ":" in CLIENT14:
-        HNY14.join_chat("EnoughBio")
-        HNY14.join_chat("xDspamBots")
+        HNY14.join_chat("RadhaX2Support")
+        HNY14.join_chat("RadhaX2Update")
 if CLIENT15:
     HNY15.start()
     if not ":" in CLIENT15:
-        HNY15.join_chat("EnoughBio")
-        HNY15.join_chat("xDspamBots")
+        HNY15.join_chat("RadhaX2Support")
+        HNY15.join_chat("RadhaX2Update")
 if CLIENT16:
     HNY16.start()
     if not ":" in CLIENT16:
-        HNY16.join_chat("EnoughBio")
-        HNY16.join_chat("xDspamBots")
+        HNY16.join_chat("RadhaX2Support")
+        HNY16.join_chat("RadhaX2Update")
 if CLIENT17:
     HNY17.start()
     if not ":" in CLIENT17:
-        HNY17.join_chat("EnoughBio")
-        HNY17.join_chat("xDspamBots")
+        HNY17.join_chat("RadhaX2Support")
+        HNY17.join_chat("RadhaX2Update")
 if CLIENT18:
     HNY18.start()
     if not ":" in CLIENT18:
-        HNY18.join_chat("EnoughBio")
-        HNY18.join_chat("xDspamBots")
+        HNY18.join_chat("RadhaX2Support")
+        HNY18.join_chat("RadhaX2Update")
 if CLIENT19:
     HNY19.start()
     if not ":" in CLIENT19:
-        HNY19.join_chat("EnoughBio")
-        HNY19.join_chat("xDspamBots")
+        HNY19.join_chat("RadhaX2Support")
+        HNY19.join_chat("RadhaX2Update")
 if CLIENT20:
     HNY20.start()
     if not ":" in CLIENT20:
-        HNY20.join_chat("EnoughBio")
-        HNY20.join_chat("xDspamBots")
+        HNY20.join_chat("RadhaX2Support")
+        HNY20.join_chat("RadhaX2Update")
 
 print("Your Spam Bots Successfully Deployed ✅")
-print("Visit -! @xDspamBots")
+print("Visit -! @RadhaX2Support")
 
 idle()
