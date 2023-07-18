@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
 import os
 
@@ -42,7 +42,7 @@ async def setpic(xspam: Client, e: Message):
             print(a)
 
 
-etc_bio = "𝐱𝐃 𝐒𝐩𝐚𝐦 𝐁𝐨𝐭𝐬 ! 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 - @DevilsHeavenMF"
+etc_bio = "𝐑𝐚𝐝𝐡𝐚 𝐒𝐩𝐚𝐦 𝐁𝐨𝐭𝐬 ! 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 - @RadhaX2Support"
 
 
 @Client.on_message(
