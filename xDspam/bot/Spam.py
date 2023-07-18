@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
 import asyncio
 import re
@@ -29,7 +29,7 @@ async def delayspam(xspam: Client, e: Message):
         msg = str(HNYop[1])
         if re.search(Owners.lower(), msg.lower()):
             return await e.reply_text(usage)(
-                "**Sorry !!** I can't Spam On @EnoughBio's owner"
+                "**Sorry !!** I can't Spam On @RadhaX2Support owner"
             )
         sleeptime = float(HNY[0])
         if e.reply_to_message:
@@ -71,7 +71,7 @@ async def ispam(xspam: Client, e: Message):
         return await e.reply_text(usage)
     id = x.id
     if int(id) in EnoughBio:
-        text = f"I can't raid on @EnoughBio's Owner"
+        text = f"I can't raid on @RadhaX2Support Owner"
         await e.reply_text(text)
     elif int(id) == OWNER_ID:
         text = f"This guy is Owner Of this Bots."
@@ -387,7 +387,7 @@ async def uspam(xspam: Client, e: Message):
         return await e.reply_text("**Sorry !! i Can't Spam Here.**")
     msg = str(e.text[6:])
     if re.search(Owners.lower(), msg.lower()):
-        return await e.reply("**Sorry !!** I can't Spam On @EnoughBio's owner")
+        return await e.reply("**Sorry !!** I can't Spam On @RadhaX2Support owner")
     try:
         while unlimited == True:
             await xspam.send_message(e.chat.id, msg)
@@ -419,7 +419,7 @@ async def uraid(xspam: Client, e: Message):
         ok = await xspam.get_users(HNY)
         id = ok.id
         if int(id) in EnoughBio:
-            text = f"I can't raid on @EnoughBio's Owner"
+            text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
             text = f"This guy is the Owner Of these Bots."
@@ -448,7 +448,7 @@ async def uraid(xspam: Client, e: Message):
         ok = await xspam.get_users(user_id)
         id = ok.id
         if int(id) in EnoughBio:
-            text = f"I can't raid on @EnoughBio's Owner"
+            text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
             text = f"This guy the Owner Of these Bots."
