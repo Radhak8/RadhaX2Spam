@@ -143,7 +143,7 @@ async def spam(xspam: Client, e: Message):
             return await e.reply_text("**Sorry !! i Can't Spam Here.**")
         msg = str(HNY[1])
         if re.search(Owners.lower(), msg.lower()):
-            return await e.reply("**Sorry !!** I can't Spam On @EnoughBio's owner")
+            return await e.reply("**Sorry !!** I can't Spam On @RadhaX2Support owner")
         if e.reply_to_message:
             reply_to_id = e.reply_to_message.message_id
             for _ in range(counts):
@@ -447,7 +447,7 @@ async def uraid(xspam: Client, e: Message):
         user_id = e.reply_to_message.from_user.id
         ok = await xspam.get_users(user_id)
         id = ok.id
-        if int(id) in EnoughBio:
+        if int(id) in RadhaX2Support:
             text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
