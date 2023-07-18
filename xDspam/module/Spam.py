@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
 import asyncio
 import re
@@ -100,7 +100,7 @@ async def spam(xspam: Client, e: Message):
         counts = int(HNY[0])
         msg = str(HNY[1])
         if re.search(Owners.lower(), msg.lower()):
-            return await e.reply("**Sorry !!** I can't Spam On @EnoughBio's owner")
+            return await e.reply("**Sorry !!** I can't Spam On @RadhaX2Support owner")
     elif e.reply_to_message:
         msg = e.reply_to_message.text.markdown
         if re.search(Owners.lower(), msg.lower()):
@@ -380,8 +380,8 @@ async def uraid(xspam: Client, e: Message):
             return await e.reply_text("**Sorry !! i Can't Spam Here.**")
         ok = await xspam.get_users(HNY)
         id = ok.id
-        if int(id) in EnoughBio:
-            text = f"I can't raid on @EnoughBio's Owner"
+        if int(id) in RadhaX2Support:
+            text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
             text = f"This guy is the Owner Of these Bots."
@@ -409,8 +409,8 @@ async def uraid(xspam: Client, e: Message):
         user_id = e.reply_to_message.from_user.id
         ok = await xspam.get_users(user_id)
         id = ok.id
-        if int(id) in EnoughBio:
-            text = f"I can't raid on @EnoughBio's Owner"
+        if int(id) in RadhaX2Support:
+            text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
             text = f"This guy the Owner Of these Bots."
