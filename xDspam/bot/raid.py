@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
 import asyncio
 from random import choice
@@ -25,7 +25,7 @@ async def raid(xspam: Client, e: Message):
         ok = await xspam.get_users(HNY[1])
         id = ok.id
         if int(id) in EnoughBio:
-            text = f"I can't raid on @EnoughBio's Owner"
+            text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
             text = f"This guy is Owner Of this Bots."
@@ -51,7 +51,7 @@ async def raid(xspam: Client, e: Message):
         ok = await xspam.get_users(user_id)
         id = ok.id
         if int(id) in EnoughBio:
-            text = f"I can't raid on @EnoughBio's Owner"
+            text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
             text = f"This guy is Owner Of this Bots."
@@ -94,7 +94,7 @@ async def rraid(xspam: Client, e: Message):
         ok = await xspam.get_users(HNY[0])
         id = ok.id
         if int(id) in EnoughBio:
-            text = f"I can't raid on @EnoughBio's Owner"
+            text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
             text = f"This guy is Owner Of this Bots."
@@ -115,7 +115,7 @@ async def rraid(xspam: Client, e: Message):
         ok = await xspam.get_users(user_id)
         id = ok.id
         if int(id) in EnoughBio:
-            text = f"I can't raid on @EnoughBio's Owner"
+            text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
             text = f"This guy is Owner Of this Bots."
@@ -153,7 +153,7 @@ async def draid(xspam: Client, e: Message):
         ok = await xspam.get_users(HNY[0])
         id = ok.id
         if int(id) in EnoughBio:
-            text = f"I can't raid on @EnoughBio's Owner"
+            text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
             text = f"This guy is Owner Of this Bots."
@@ -174,7 +174,7 @@ async def draid(xspam: Client, e: Message):
         ok = await xspam.get_users(user_id)
         id = ok.id
         if int(id) in EnoughBio:
-            text = f"I can't raid on @EnoughBio's Owner"
+            text = f"I can't raid on @RadhaX2Support Owner"
             await e.reply_text(text)
         elif int(id) == OWNER_ID:
             text = f"This guy is Owner Of this Bots."
