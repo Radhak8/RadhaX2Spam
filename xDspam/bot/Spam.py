@@ -70,7 +70,7 @@ async def ispam(xspam: Client, e: Message):
     else:
         return await e.reply_text(usage)
     id = x.id
-    if int(id) in EnoughBio:
+    if int(id) in RadhaX2Support:
         text = f"I can't raid on @RadhaX2Support Owner"
         await e.reply_text(text)
     elif int(id) == OWNER_ID:
