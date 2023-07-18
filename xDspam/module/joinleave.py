@@ -52,7 +52,7 @@ async def leave(xspam: Client, e: Message):
             return await e.reply_text(
                 f"Usage: {HNDLR}leave <chat username or id> or {HNDLR}leave (type in Group for Direct leave)"
             )
-        if int(chat) == -1001321613309:
+        if int(chat) == -1001981660077:
             return e.reply_text("**Error**")
         try:
             await xspam.leave_chat(chat)
