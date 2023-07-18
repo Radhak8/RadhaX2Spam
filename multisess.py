@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
 from pyrogram import Client
 
@@ -23,11 +23,11 @@ try:
         if whom:
             id = HNY.get_users(whom).id
             HNY.send_message(
-                id, f"**Pyrogram String Session** \n\n `{sess}` \n\n © @EnoughBio"
+                id, f"**Pyrogram String Session** \n\n `{sess}` \n\n © @RadhaX2Support"
             )
         else:
             HNY.send_message(
-                "me", f"**Pyrogram String Session** \n\n `{sess}` \n\n © @EnoughBio"
+                "me", f"**Pyrogram String Session** \n\n `{sess}` \n\n © @RadhaX2Support"
             )
 
     if whom:
