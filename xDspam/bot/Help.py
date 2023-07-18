@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @Radhak8 ""
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
@@ -53,7 +53,7 @@ syntax:
 {hl}hang (counts)
 
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
 
 
@@ -72,7 +72,7 @@ command:
 command:
   {hl}dmraid (count) (username or user id)
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
 
 leave_help = f"""
@@ -83,7 +83,7 @@ syntax:
 i) {hl}leave group Username or chat user id
 ii) {hl}leave
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
 
 userbot_help = f"""
@@ -114,7 +114,7 @@ help_menu = f"""
 **Type** {hl}help (category) **to get all syntax in that category and its usage**
 **Example**: `{hl}help spam`
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
 
 
@@ -137,5 +137,5 @@ syntax:
 
 **stop cmd**: Simply type {hl}stop to stop spam/abuse/raid any of that 
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
