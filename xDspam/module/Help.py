@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
@@ -50,7 +50,7 @@ syntax:
 syntax:
  {hl}fspam (count) (message to spam)
  
-**Note:** Fast Spam Is Harmful for IDs Don't Blame to @EnoughBio If IDs Get ban -!
+**Note:** Fast Spam Is Harmful for IDs Don't Blame to @RadhaX2Support If IDs Get ban -!
 
 
 **pornspam**: Porn Spam for given counter.
@@ -66,7 +66,7 @@ syntax:
 {hl}hang (counts)
 
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
 
 
@@ -85,7 +85,7 @@ command:
 command:
   {hl}dmraid (count) (username or user id)
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
 
 
@@ -97,7 +97,7 @@ Syntax:
   {hl}join private/public Chat invite link or username
 
 
-**© @EnoughBio
+**© @RadhaX2Support
 """
 
 leave_help = f"""
@@ -108,7 +108,7 @@ syntax:
 i) {hl}leave group Username or chat user id
 ii) {hl}leave
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
 
 userbot_help = f"""
@@ -120,7 +120,7 @@ userbot_help = f"""
 
 - {hl}restart : To Restart Your Spam Bots
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
 
 
@@ -135,7 +135,7 @@ commands:
 2) {hl}setbio (coustom Bio)
 3) {hl}setpic (reply to media)
 
-**© @EnoughBio **
+**© @RadhaX2Support **
 """
 
 help_menu = f"""
@@ -154,7 +154,7 @@ help_menu = f"""
 **Type** {hl}help (category) **to get all syntax in that category and its usage**
 **Example**: `{hl}help spam`
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
 
 
@@ -181,5 +181,5 @@ syntax:
 Syntax:
   {hl}msgall (your message)
 
-**© @EnoughBio**
+**© @RadhaX2Support**
 """
