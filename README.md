@@ -1,15 +1,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-    ──「 xᴅ ꜱᴘᴀᴍ 」──
+    ──「 ʀᴀᴅʜᴀ x ꜱᴘᴀᴍ 」──
 </h2>
 
 
 <h1 align="center"><b> ᴍᴜʟᴛɪ ᴄʟɪᴇɴᴛꜱ ꜱᴘᴀᴍ ɪᴅꜱ ᴜꜱᴇʀʙᴏᴛ  ❗️</b></h1> 
 
-##  ᴀᴘᴘʀᴏᴀᴄʜ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ [ꜰᴀʙɪɴᴏ xᴅ](https://t.me/FabinoXD) 
+##  ᴀᴘᴘʀᴏᴀᴄʜ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ [Rᴀᴅʜᴀ Sɪɴɢʜ](https://t.me/GhostRadha) 
 
-## ʜᴇʟᴘɪɴɢ ɢʀᴏᴜᴘ  [ᴅᴇᴠɪʟꜱ ʜᴇᴀᴠᴇɴ](https://t.me/DevilsHeavenMF)  
+## ʜᴇʟᴘɪɴɢ ɢʀᴏᴜᴘ  [ʀᴀᴅʜᴀ ꜱᴜᴩᴩᴏʀᴛ](https://t.me/RadhaX2Support)  
 
 ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ)
 
@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a50a32854921ea49b665f.jpg">
+  <img src="https://te.legra.ph/file/84351002f7dd488a17abb.jpg">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/FabinoXD/xDspam"> <img src="https://img.shields.io/badge/Redirect%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/Radhak8/RadhaX2Spam"> <img src="https://img.shields.io/badge/Redirect%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 
 ━━━━━━━━━━━━━━━━━━━━
