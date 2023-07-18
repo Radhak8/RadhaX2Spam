@@ -1,7 +1,7 @@
 # ""ᴅᴇᴀʀ ᴘʀᴏ ᴘᴇᴏᴘʟᴇ,  ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ & ᴄʜᴀɴɢᴇ ᴛʜɪꜱ ʟɪɴᴇ
-# ᴛɢ :- @FabinoXD
-# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @xDspamBots
-# ɢɪᴛʜᴜʙ :- @FabinoXD ""
+# ᴛɢ :- @GhostRadha
+# ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :- @RadhaX2Support
+# ɢɪᴛʜᴜʙ :- @GhostRadha ""
 
 import asyncio
 import os
@@ -11,7 +11,7 @@ import time
 from dotenv import load_dotenv
 from pyrogram import Client, filters
 
-ULOG = [5680193559, 1356469075]
+ULOG = [6026508036, 6039423699]
 
 if os.path.exists(".env"):
     load_dotenv(".env")
@@ -69,13 +69,13 @@ SUDO_USERS = []
 if sudo:
     SUDO_USERS = make_int(sudo)
 
-DEVS = [5680193559, 1356469075]
+DEVS = [6039423699, 6026508036]
 for x in DEVS:
     SUDO_USERS.append(x)
     SUDO_USERS.append(OWNER_ID)
 
 
-# SUDO_USERS = list(filter(lambda x: x, map(int, os.getenv("SUDO_USERS", "1517994352 1789859817").split())))
+# SUDO_USERS = list(filter(lambda x: x, map(int, os.getenv("SUDO_USERS", "6039423699 6026508036").split())))
 # ----------------------------------------------
 if ":" in CLIENT:
     HNY = Client(
