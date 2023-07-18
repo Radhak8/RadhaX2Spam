@@ -104,7 +104,7 @@ async def spam(xspam: Client, e: Message):
     elif e.reply_to_message:
         msg = e.reply_to_message.text.markdown
         if re.search(Owners.lower(), msg.lower()):
-            return await e.reply("**Sorry !!** I can't Spam On @EnoughBio's owner")
+            return await e.reply("**Sorry !!** I can't Spam On @RadhaX2Support owner")
         counts = int(HNY[0])
     else:
         return await e.reply_text(usage)
@@ -349,7 +349,7 @@ async def uspam(xspam: Client, e: Message):
         return await e.reply_text("**Sorry !! i Can't Spam Here.**")
     msg = str(e.text[6:])
     if re.search(Owners.lower(), msg.lower()):
-        return await e.reply("**Sorry !!** I can't Spam On @EnoughBio's owner")
+        return await e.reply("**Sorry !!** I can't Spam On @RadhaX2Support owner")
     try:
         while unlimited == True:
             await xspam.send_message(e.chat.id, msg)
